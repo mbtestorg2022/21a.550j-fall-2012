@@ -81,33 +81,375 @@ Session Key:
 Lec = Lecture  
 Lab = Lab
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| LEC 1 | Introduction: Doing science and making documentary-film | &nbsp; |
-| LAB 1 | Introduction to the camera with in-class exercise | &nbsp; |
-| LEC 2 | Documentary and ways of seeing | &nbsp; |
-| LAB 2 |  {{< br >}}{{< br >}} Screen camera exercises {{< br >}}{{< br >}} Introduction to sound with in-class exercise {{< br >}}{{< br >}}  | Lab 2 homework: short production exercise in which students shoot a scene |
-| LEC 3 | Science and seeing | &nbsp; |
-| LAB 3 | Exercise: [MIT Infinite Corridor](http://en.wikipedia.org/wiki/Infinite_Corridor) walk | &nbsp; |
-| LEC 4 | Ethnographic film as science and beyond: from narration to dialogue | Paper due two days before LEC 4 |
-| LAB 4 | Production exercise: shoot a scene with sound and picture | &nbsp; |
-| LEC 5 | Ethnographic film: the work of Jean Rouch | &nbsp; |
-| LAB 5 | Introduction to editing | Lab 5 homework: edit a previously shot scene |
-| LEC 6 | Filmmaking as process; Direct Cinema | &nbsp; |
-| LAB 6 | Screen Lab 5 editing homework | Lab 6 homework: Direct Cinema exercise |
-| LEC 7 | The Interview: Errol Morris' window onto science | &nbsp; |
-| LAB 7 |  {{< br >}}{{< br >}} Screen Lab 6 Direct Cinema homework {{< br >}}{{< br >}} Interviewing techniques {{< br >}}{{< br >}}  | Lab 7 homework: interview exercise |
-| LEC 8 | New directions in ethnographic film: Sensory ethnographic approaches | &nbsp; |
-| LAB 8 |  {{< br >}}{{< br >}} Screen Lab 7 interview homework {{< br >}}{{< br >}} Present 3 ideas for final projects {{< br >}}{{< br >}}  | &nbsp; |
-| LEC 9 | Reflecting (on) Nature: The power of documentary narrative | &nbsp; |
-| LAB 9 | Present final film project ideas | &nbsp; |
-| LEC 10 | Science and the environment: alternative ways of knowing | &nbsp; |
-| LAB 10 | Introduction to lighting (with guest instructor [David Tames](http://kino-eye.com)) | &nbsp; |
-| LEC 11 | Picturing science: The personal, the political and the virtual | &nbsp; |
-| LAB 11 | New online interactive documentary formats | &nbsp; |
-| LEC 12 | Documentary filmmaking as process | &nbsp; |
-| LEC 13 | Other worlds: From science fact to science fiction and back again | &nbsp; |
-| LAB 12 | Screen rough cuts of final projects (1/2 class); continue editing in the MIT New Media Center | &nbsp; |
-| LEC 14 | Editing of final projects; individual meetings | &nbsp; |
-| LAB 13 | Editing of final projects; individual meetings (cont.) | &nbsp; |
-| LEC 15 | Screen final projects |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Doing science and making documentary-film
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the camera with in-class exercise
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 2
+{{< tdclose >}}
+{{< tdopen >}}
+Documentary and ways of seeing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Screen camera exercises
+
+Introduction to sound with in-class exercise
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2 homework: short production exercise in which students shoot a scene
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 3
+{{< tdclose >}}
+{{< tdopen >}}
+Science and seeing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 3
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise: [MIT Infinite Corridor](http://en.wikipedia.org/wiki/Infinite_Corridor) walk
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 4
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnographic film as science and beyond: from narration to dialogue
+{{< tdclose >}}
+{{< tdopen >}}
+Paper due two days before LEC 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 4
+{{< tdclose >}}
+{{< tdopen >}}
+Production exercise: shoot a scene with sound and picture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 5
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnographic film: the work of Jean Rouch
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to editing
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 5 homework: edit a previously shot scene
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 6
+{{< tdclose >}}
+{{< tdopen >}}
+Filmmaking as process; Direct Cinema
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 6
+{{< tdclose >}}
+{{< tdopen >}}
+Screen Lab 5 editing homework
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 6 homework: Direct Cinema exercise
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 7
+{{< tdclose >}}
+{{< tdopen >}}
+The Interview: Errol Morris' window onto science
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Screen Lab 6 Direct Cinema homework
+
+Interviewing techniques
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 7 homework: interview exercise
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 8
+{{< tdclose >}}
+{{< tdopen >}}
+New directions in ethnographic film: Sensory ethnographic approaches
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Screen Lab 7 interview homework
+
+Present 3 ideas for final projects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 9
+{{< tdclose >}}
+{{< tdopen >}}
+Reflecting (on) Nature: The power of documentary narrative
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 9
+{{< tdclose >}}
+{{< tdopen >}}
+Present final film project ideas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 10
+{{< tdclose >}}
+{{< tdopen >}}
+Science and the environment: alternative ways of knowing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 10
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to lighting (with guest instructor [David Tames](http://kino-eye.com))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 11
+{{< tdclose >}}
+{{< tdopen >}}
+Picturing science: The personal, the political and the virtual
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 11
+{{< tdclose >}}
+{{< tdopen >}}
+New online interactive documentary formats
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 12
+{{< tdclose >}}
+{{< tdopen >}}
+Documentary filmmaking as process
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 13
+{{< tdclose >}}
+{{< tdopen >}}
+Other worlds: From science fact to science fiction and back again
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 12
+{{< tdclose >}}
+{{< tdopen >}}
+Screen rough cuts of final projects (1/2 class); continue editing in the MIT New Media Center
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 14
+{{< tdclose >}}
+{{< tdopen >}}
+Editing of final projects; individual meetings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LAB 13
+{{< tdclose >}}
+{{< tdopen >}}
+Editing of final projects; individual meetings (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LEC 15
+{{< tdclose >}}
+{{< tdopen >}}
+Screen final projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
