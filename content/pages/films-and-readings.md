@@ -203,9 +203,9 @@ Traweek, Sharon. "Iconic Devices: Towards an Ethnography of Physics Images." In 
 
 ### Recommended for Graduate Students
 
-Haraway, Donna. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective." (PDF)](https://philpapers.org/archive/HARSKT.pdf) _Feminist Studies_ 14, no. 3 (1988): 575–99.
+Haraway, Donna. "[Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective." (PDF)](https://philpapers.org/archive/HARSKT.pdf) _Feminist Studies_ 14, no. 3 (1988): 575–99.
 
-Roosth, Sophia, and Susan Silbey. "Science and Technology Studies: From Controversies to Post-Humanist Social Theory." In _The New Blackwell Companion to Social Theory_. John Wiley & Sons, 2008. ISBN: 9781405169004. \[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Preprint manuscript ([PDF](http://web.mit.edu/~ssilbey/www/pdf/roosth_silbey_sts_theory.pdf))\]
+Roosth, Sophia, and Susan Silbey. "Science and Technology Studies: From Controversies to Post-Humanist Social Theory." In _The New Blackwell Companion to Social Theory_. John Wiley & Sons, 2008. ISBN: 9781405169004. \[Preprint manuscript ([PDF](http://web.mit.edu/~ssilbey/www/pdf/roosth_silbey_sts_theory.pdf))\]
 
 
 {{< tdclose >}}
@@ -541,7 +541,7 @@ Mitman, Greg. _Reel Nature: America's Romance with Wildlife on Film_. University
 
 Haraway, Donna. "Teddy Bear Patriarchy." Chapter 3 in _Primate Visions: Gender, Race, and Nature in the World of Modern Science_. Routledge, 1989. ISBN: 9780415901147.
 
-Cronon, William, ed. "The Trouble with Wilderness, or Getting Back to the Wrong Nature." In _Uncommon Ground: Rethinking the Human Place in Nature_. W. W. Norton & Co., 1996. ISBN: 9780393315110. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.williamcronon.net/writing/Cronon_Trouble_with_Wilderness_1995.pdf))
+Cronon, William, ed. "The Trouble with Wilderness, or Getting Back to the Wrong Nature." In _Uncommon Ground: Rethinking the Human Place in Nature_. W. W. Norton & Co., 1996. ISBN: 9780393315110. ([PDF](http://www.williamcronon.net/writing/Cronon_Trouble_with_Wilderness_1995.pdf))
 
 
 {{< tdclose >}}
